@@ -9,5 +9,3 @@ First Line
 Second Line
 
 some content
--------------------------------------------------
-NEW verse
